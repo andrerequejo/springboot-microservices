@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>springboot-microservices</groupId>
+	<artifactId>springboot-microservices</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<packaging>pom</packaging>
+	<modules>
+		<module>springboot-microservices-parent</module>
+		<module>springboot-microservices-bootstrap</module>
+<!--		<module>springboot-microservices-configuration</module>-->
+<!--		<module>springboot-microservices-cloud</module>-->
+<!--		<module>springboot-microservices-data</module>-->
+<!--		<module>springboot-microservices-rest</module>-->
+<!--		<module>springboot-microservices-integration</module>-->
+<!--		<module>springboot-microservices-operations</module>-->
+<!--		<module>springboot-microservices-choreography</module>-->
+<!--		<module>springboot-microservices-web</module>-->
+<!--		<module>springboot-microservices-security</module>-->
+<!--		<module>springboot-microservices-testing</module>-->
+<!--		<module>springboot-microservices-extending</module>-->
+<!--		<module>springboot-microservices-ide-and-tooling</module>-->
+	</modules>
+</project>
