@@ -9,7 +9,7 @@
 	<modules>
 		<module>springboot-microservices-parent</module>
 		<module>springboot-microservices-bootstrap</module>
-<!--		<module>springboot-microservices-configuration</module>-->
+		<module>springboot-microservices-configuration</module>
 <!--		<module>springboot-microservices-cloud</module>-->
 <!--		<module>springboot-microservices-data</module>-->
 <!--		<module>springboot-microservices-rest</module>-->
