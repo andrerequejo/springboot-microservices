@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/andrerequejo/springboot-microservices/tree/master/springboot-microservices-configuration/configuration-cloudclient
+          uri: https://github.com/andrerequejo/springboot-microservices-lab-configuration
